@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "mobx-with-react/package.json"
+      ]
+    }
+  }
+}
