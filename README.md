@@ -1,5 +1,7 @@
 # mobx-basic
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/seongjoojin/mobx-basic.svg)](https://greenkeeper.io/)
+
 벨로퍼트님 벨로그 따라하기
 
 ## Mobx 주요 개념
